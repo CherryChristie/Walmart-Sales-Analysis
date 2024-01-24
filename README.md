@@ -189,7 +189,8 @@ Branch A sold more products than the average, with a total product count of 1859
 
 The member customer type brings in the most revenue and pays the most in VAT, highlighting their significant contribution to Walmart's sales.
 ## Dashboard
-![b9dfb358eae2f7ad96c694fb758abe2](https://github.com/CherryChristie/Walmart-Sales-Analysis/assets/148567375/ed618bad-4de9-48e4-ba6b-0ac8d3495dac)
+![6e4299d790b75b0db4d1795cfcbe287](https://github.com/CherryChristie/Walmart-Sales-Analysis/assets/148567375/091a2858-9992-4778-8df4-35c29771cca5)
+
 
 
 
